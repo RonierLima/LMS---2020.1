@@ -8,7 +8,7 @@ Link para disciplina: [aqui](https://sites.google.com/view/victorufc/2020-1/ling
 
 ## Atividades 
 
-- [x] [Atividade 1]([- [x]](https://ronierlima.github.io/LMS-2020.1/Atividade%201/))
+- [x] [Atividade 1](https://ronierlima.github.io/LMS-2020.1/Atividade%201/)
   
 - [ ] Atividade 2 
 
