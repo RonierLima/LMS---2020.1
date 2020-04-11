@@ -13,8 +13,9 @@ Link para disciplina :point_right: [link :link:](https://sites.google.com/view/v
 
 
 
-:heavy_check_mark: [Atividade 1](https://ronierlima.github.io/LMS-2020.1/Atividade%201/) 
-:heavy_check_mark: [Atividade 1](https://ronierlima.github.io/LMS-2020.1/Atividade%202/) 
+:heavy_check_mark: [Atividade 1 - Ver no GitPages](https://ronierlima.github.io/LMS-2020.1/Atividade-1/) 
+
+:heavy_check_mark: [Atividade 2 - Ver no GitPages](https://ronierlima.github.io/LMS-2020.1/Atividade-2/) 
 
 - [ ] Atividade 3
 
