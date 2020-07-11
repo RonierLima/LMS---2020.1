@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+}
+
+header h1 {
+    margin: 10px;
+}
+
+#l1 {
+    font-size: 37px;
+    letter-spacing: 3px;
+    color: #555555;
+}
+
+#l2 {
+    font-size: 37px;
+    letter-spacing: 3px;
+    color: #4caf50;
+}
+
+.nav-horizontal {
+    margin: 0;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+.nav-horizontal ul {
+    background-color: #4caf50;
+}
+
+.nav-vertical ul {
+    background-color: white;
+}
+
+.nav-horizontal li {
+    float: left;
+}
+
+.nav-horizontal li a,
+.dropbtn {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding: 8px 16px;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    font-size: 17px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    cursor: pointer;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+.nav-horizontal li a:hover,
+.dropdown:hover .dropbtn {
+    color: black;
+    background-color: #fff;
+}
+
+.nav-horizontal li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.nav-vertical {
+    position: fixed;
+    width: 100px;
+    height: 100%;
+    overflow: auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    
+}
+
+
+
+.nav-vertical li a{
+    display: block;
+    color: #555;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.nav-vertical li a:hover {
+    background-color: #555;
+    color: white;
+  }
